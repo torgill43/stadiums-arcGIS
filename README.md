@@ -16,11 +16,11 @@ Languages:
 - JavaScript
 
 # Useful Websites
-* [ArcGIS Developers - Tutorials](https://developers.arcgis.com/documentation/mapping-apis-and-services/tutorials/)
-* [ArcGIS - Filtering by Attribute](https://developers.arcgis.com/javascript/latest/sample-code/featurefilter-attributes/)
+- [ArcGIS Developers - Tutorials](https://developers.arcgis.com/documentation/mapping-apis-and-services/tutorials/)
+- [ArcGIS - Filtering by Attribute](https://developers.arcgis.com/javascript/latest/sample-code/featurefilter-attributes/)
 
 # Future Work
-* Placing the filter mechanism along the left so it appears/disappears properly
-* Adding stadiums of different sports
-* Run on a hosted site using a Node.js project or something similar
-*   Currently only runs on localhost
+- Placing the filter mechanism along the left so it appears/disappears properly
+- Adding stadiums of different sports
+- Run on a hosted site using a Node.js project or something similar
+  - Currently only runs on localhost
