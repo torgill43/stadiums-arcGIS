@@ -16,6 +16,29 @@
         height: 100%;
         width: 100%;
       }
+
+      #stadium-filter {
+        height: 160px;
+        width: 100%;
+        visibility: hidden;
+      }
+
+      .stadium-item {
+        width: 100%;
+        padding: 12px;
+        text-align: center;
+        vertical-align: baseline;
+        cursor: pointer;
+        height: 40px;
+      }
+
+      .season-item:focus {
+        background-color: dimgrey;
+      }
+
+      .season-item:hover {
+        background-color: dimgrey;
+      }
     </style>
 
     <link
@@ -26,6 +49,10 @@
     <script src="index.js"></script>
   </head>
   <body>
+    <div id="stadiums-filter" class="esri-widget">
+      <div class="stadium-item visible-stadium" data-stadium="AL">AL</div>
+      <div class="stadium-item visible-stadium" data-stadium="NL">NL</div>
+    </div>
     <div id="viewDiv"></div>
   </body>
 </html>

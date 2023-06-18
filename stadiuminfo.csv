@@ -1,0 +1,32 @@
+TEAM_NAME,STADIUM_NAME,CAPACITY,CITY,LEAGUE,LAT,LON,x,y,FID
+Arizona Diamondbacks,Chase Field,"48,686","Phoenix, AZ",NL,33.445526,-112.066664,-112.066664,33.445526,1
+Atlanta Braves,Truist Park,"41,084","Atlanta, GA",NL,33.89084,-84.467827,-84.467827,33.89084,2
+Baltimore Orioles,Oriole Park at Camden Yards,"45,971","Baltimore, MD",AL,39.284396,-76.620485,-76.620485,39.284396,3
+Boston Red Sox,Fenway Park,"37,755","Boston, MA",AL,42.346613,-71.098817,-71.098817,42.346613,4
+Chicago Cubs,Wrigley Field,"41,649","Chicago, IL",NL,41.948438,-87.655333,-87.655333,41.948438,5
+Chicago White Sox,Guaranteed Rate Field,"40,615","Chicago, IL",AL,41.830883,-87.635083,-87.635083,41.830883,6
+Cincinnati Reds,Great American Ball Park,"42,319","Cincinnati, OH",NL,39.097931,-84.508151,-84.508151,39.097931,7
+Cleveland Guardians,Progressive Field,"34,788","Cleveland, OH",AL,41.495149,-81.685262,-81.685262,41.495149,8
+Colorado Rockies,Coors Field,"50,398","Denver, CO",NL,39.75698,-104.965329,-104.965329,39.75698,9
+Detroit Tigers,Comerica Park,"41,083","Detroit, MI",AL,42.338998,-83.048515,-83.048515,42.338998,10
+Houston Astros,Minute Maid Park,"41,168","Houston, TX",AL,29.757103,-95.355328,-95.355328,29.757103,11
+Kansas City Royals,Kauffman Stadium,"37,903","Kansas City, MO",AL,39.051671,-94.480314,-94.480314,39.051671,12
+Los Angeles Angels,Angel Stadium,"45,517","Anaheim, CA",AL,33.800308,-117.882732,-117.882732,33.800308,13
+Los Angeles Dodgers,Dodger Stadium,"56,000","Los Angeles, CA",NL,34.073851,-118.239958,-118.239958,34.073851,14
+Miami Marlins, LoanDepot park,"36,742","Miami, FL",NL,25.778056,-80.219722,-80.219722,25.778056,15
+Milwaukee Brewers, American Family Field,"41,900","Milwaukee, WI",NL,43.027978,-87.97115,-87.97115,43.027978,16
+Minnesota Twins, Target Field,"38,544","Minneapolis, MN",AL,44.981713,-93.277344,-93.277344,44.981713,17
+New York Mets,Citi Field,"41,922","New York, NY",NL,40.757088,-73.845821,-73.845821,40.757088,18
+New York Yankees,Yankee Stadium,"47,309","Bronx, NY",AL,40.829643,-73.926175,-73.926175,40.829643,19
+Oakland Athletics,Oakland Coliseum,"46,765","Oakland, CA",AL,37.75161,-122.200545,-122.200545,37.75161,20
+Philadelphia Phillies,Citizens Bank Park,"43,651","Philadelphia, PA",NL,39.905389,-75.166785,-75.166785,39.905389,21
+Pittsburgh Pirates,PNC Park,"38,362","Pittsburgh, PA",NL,40.446855,-80.005666,-80.005666,40.446855,22
+San Diego Padres,Petco Park,"42,445","San Diego, CA",NL,32.707296,-117.156236,-117.156236,32.707296,23
+San Francisco Giants, Oracle Park,"41,915","San Francisco, CA",NL,37.778611,-122.389167,-122.389167,37.778611,24
+Seattle Mariners,T-Mobile Park,"47,929","Seattle, WA",AL,47.591389,-122.3325,-122.3325,47.591389,25
+St. Louis Cardinals,Busch Stadium,"44,494","St. Louis, MO",NL,38.6226,-90.1928,-90.1928,38.6226,26
+Tampa Bay Rays,Tropicana Field,"25,000","St. Petersburg, FL",AL,27.7683,-82.6534,-82.6534,27.7683,27
+Texas Rangers,Globe Life Field,"40,300","Arlington, TX",AL,32.7512,-97.0839,-97.0839,32.7512,28
+Toronto Blue Jays,Rogers Centre (SkyDome),"53,506","Toronto, ON, Canada",AL,43.6414,-79.3894,-79.3894,43.6414,29
+Washington Nationals,Nationals Park,"41,313","Washington D.C.",NL,38.8730,-77.0074,-77.0074,38.8730,30
+
