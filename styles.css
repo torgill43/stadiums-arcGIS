@@ -1,0 +1,41 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#stadium-filter {
+  height: 160px;
+  width: 100%;
+  visibility: hidden;
+}
+
+.stadium-item {
+  width: 100%;
+  padding: 12px;
+  text-align: center;
+  vertical-align: baseline;
+  cursor: pointer;
+  height: 40px;
+  font-size: 25px;
+}
+
+.stadium-item:hover {
+  background-color: dimgrey;
+  color: white;
+}
+
+.stadium-item:active {
+  color: black;
+}
+
+/* .stadium-item:focus {
+  background-color: dimgrey;
+}
+
+.stadium-item:hover {
+  background-color: dimgrey;
+} */

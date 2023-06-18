@@ -7,46 +7,13 @@
       content="initial-scale=1, maximum-scale=1, user-scalable=no"
     />
     <title>MLB Stadium Mapping</title>
-    <style>
-      html,
-      body,
-      #viewDiv {
-        padding: 0;
-        margin: 0;
-        height: 100%;
-        width: 100%;
-      }
-
-      #stadium-filter {
-        height: 160px;
-        width: 100%;
-        visibility: hidden;
-      }
-
-      .stadium-item {
-        width: 100%;
-        padding: 12px;
-        text-align: center;
-        vertical-align: baseline;
-        cursor: pointer;
-        height: 40px;
-      }
-
-      .season-item:focus {
-        background-color: dimgrey;
-      }
-
-      .season-item:hover {
-        background-color: dimgrey;
-      }
-    </style>
-
     <link
       rel="stylesheet"
       href="https://js.arcgis.com/4.27/esri/themes/light/main.css"
     />
+    <link href="styles.css" rel="stylesheet" />
     <script src="https://js.arcgis.com/4.27/"></script>
-    <script src="index.js"></script>
+    <script defer src="index.js"></script>
   </head>
   <body>
     <div id="stadiums-filter" class="esri-widget">

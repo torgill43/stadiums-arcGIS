@@ -6,7 +6,6 @@ require([
   "esri/widgets/Expand",
 ], (esriConfig, Map, MapView, FeatureLayer, Expand) => {
   esriConfig.apiKey = "YOUR_API_KEY";
-
   const map = new Map({
     basemap: "arcgis-topographic", // Basemap layer service
   });
